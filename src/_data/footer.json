@@ -1,0 +1,45 @@
+{
+  "footerLogo": "/assets/images/logo-footer.png",
+
+  "contactsHeading": "Contact Info",
+  "contactsInfo":[
+    {
+      "link":"mailto:",
+      "text":"alex@dashingelephant.xyz"
+    }
+  ],
+
+  "siteMapHeading":"Sitemap",
+  "siteMap":[
+    {
+      "link":"about",
+      "text":"About"
+    },
+    {
+      "link":"portfolio",
+      "text":"Projects"
+    },
+    {
+      "link":"blog",
+      "text":"Blog"
+    }
+  ],
+
+  "socialHeading":"Social Media",
+  "socialMedia":[
+    {
+      "link":"https://www.linkedin.com/in/alexander-sutcliffe-b56921166/",
+      "text":"LinkedIn"
+    },
+    {
+      "link":"https://github.com/scrambldchannel",
+      "text":"Github"
+    }
+  ],
+  
+  "brandHeading":"We help brands:",
+  "brandMotto":["develop design solutions","produce valuable cultural content","create fresh brand experience"],
+
+  "back2topIcon":"/assets/images/to-top.svg",
+  "customerComment":"I want to visit again"
+}
