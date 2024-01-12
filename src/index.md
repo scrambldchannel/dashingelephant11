@@ -1,20 +1,20 @@
 ---
 layout: "layouts/homepage.njk"
 hero:
-  subTitle: "WE WORK HARD, WE PLAY HARD"
+  subTitle: "Dashing Elephant"
   title:
-    firstPara: "We’re a Design Studio"
-    secondPara: "That Believes In Great Ideas"
+    firstPara: "Alexander"
+    secondPara: "Sutcliffe"
   seeWorkBtn:
-    text: "See Our Works"
+    text: "Selected Work"
     link: "#project"
   connectBtn: 
-    text: "Connect with us"
+    text: "Get in Touch"
     link: "contact"
 
 portfolio:
-  subTitle: "OUR RECENT WORKS"
-  title: "Crafting experiences and seeking to make the complex clear & beautiful."
+  subTitle: "RECENT WORKS"
+  title: "Striving to make the complex clear & beautiful."
   seeAllbtn:
     link: "portfolio"
     text: "MORE WORKS"

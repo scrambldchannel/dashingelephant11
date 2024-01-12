@@ -4,20 +4,8 @@
   "contactsHeading": "Contact Info",
   "contactsInfo":[
     {
-      "link":"https://goo.gl/maps/fBANt7Ns2wi6mM7cA",
-      "text":"713 Elmwood St. Prior Lake, MN 55372"
-    },
-    {
-      "link":"tel:409-896-1444",
-      "text":"409-896-1444"
-    },
-    {
-      "link":"tel:409-781-1308",
-      "text":"409-781-1308"
-    },
-    {
       "link":"mailto:",
-      "text":"info@roxo.co"
+      "text":"alex@dashingelephant.xyz"
     }
   ],
 
@@ -25,39 +13,27 @@
   "siteMap":[
     {
       "link":"about",
-      "text":"About Company"
+      "text":"About"
     },
     {
       "link":"portfolio",
       "text":"Projects"
     },
     {
-      "link":"privacy-policy",
-      "text":"Privacy Policy"
-    },
-    {
-      "link":"terms-conditions",
-      "text":"Terms & Condition"
+      "link":"blog",
+      "text":"Blog"
     }
   ],
 
   "socialHeading":"Social Media",
   "socialMedia":[
     {
-      "link":"#",
-      "text":"Medium"
+      "link":"https://www.linkedin.com/in/alexander-sutcliffe-b56921166/",
+      "text":"LinkedIn"
     },
     {
-      "link":"#",
-      "text":"Behance"
-    },
-    {
-      "link":"#",
-      "text":"Dribbble"
-    },
-    {
-      "link":"#",
-      "text":"Instagram"
+      "link":"https://github.com/scrambldchannel",
+      "text":"Github"
     }
   ],
   

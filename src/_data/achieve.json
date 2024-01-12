@@ -1,21 +1,21 @@
 {
-  "title": "The Proof is in the Pudding!",
+  "title": "A Life in Numbers",
   "achievements":[
     {
-      "title": "Happy Clients",
-      "counter": "253"
+      "title": "Years of Experience",
+      "counter": "20+"
     },
     {
-      "title": "Projects Completed",
-      "counter": "111"
+      "title": "Countries Lived In",
+      "counter": "4"
     },
     {
-      "title": "Cups of coffee",
-      "counter": "351"
+      "title": "Feline Companions",
+      "counter": "1"
     },
     {
-      "title": "Telephone Talks",
-      "counter": "740"
+      "title": "International Runs Scored",
+      "counter": "0"
     }
   ]
 }

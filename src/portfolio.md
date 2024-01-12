@@ -2,7 +2,7 @@
 layout: layouts/portfolio.njk
 pagination:
   data: collections.portfolios
-  size: 3
+  size: 4
   alias: portfolios
 ---
-# We build better <span>products</span> to help our clients build better <span>companies</span>
+# Building better <span>Data Products</span> to help clients make better <span>Decisions</span>
